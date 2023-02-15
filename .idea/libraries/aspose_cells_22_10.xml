@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="aspose-cells-22.10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../aspose-cells-22.10-java/JDK 1.6/aspose-cells-22.10-java/lib/aspose-cells-22.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../aspose-cells-22.10-java/JDK 1.6/aspose-cells-22.10-java/lib/bcpkix-jdk15on-1.60.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../aspose-cells-22.10-java/JDK 1.6/aspose-cells-22.10-java/lib/bcprov-jdk15on-1.60.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../aspose-cells-22.10-java/JDK 1.6/aspose-gridweb-22.10-java/lib/aspose-gridweb-22.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../aspose-cells-22.10-java/JDK 1.6/aspose-gridweb-22.10-java/lib/bcpkix-jdk15on-1.60.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../aspose-cells-22.10-java/JDK 1.6/aspose-gridweb-22.10-java/lib/bcprov-jdk15on-1.60.jar!/" />
+      <root url="file://$PROJECT_DIR$/.." />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../UI_zadanie1/src" />
+      <root url="file://$PROJECT_DIR$/../zadanie1/src" />
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>
